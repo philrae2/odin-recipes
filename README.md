@@ -1,0 +1,1 @@
+This project is a tutorial from The Odin Project where we make a recipes website.

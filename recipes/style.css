@@ -1,0 +1,28 @@
+#head {
+    text-align: center;
+}
+
+.recipeImage {
+    width: 300px;
+    height: auto;
+    padding-bottom: 20%;
+}
+
+.imageContent {
+    display: inline;
+    margin-left: 30%;
+    height: 800px;
+}
+
+.recipeContent{
+    display: inline-block;
+    padding: 20px;
+}
+
+.description {
+    width: 400px;
+}
+
+ol {
+    width: 400px;
+}
